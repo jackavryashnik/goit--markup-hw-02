@@ -117,6 +117,7 @@ address {
   color: #2e2f42;
 }
 
+.header__nav,
 .header__list-item,
 .header__link,
 .header__list {
